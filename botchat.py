@@ -3,7 +3,7 @@ from nltk.chat.util import Chat, reflections
 
 pairs = [
     ["my name is (.*)", ["hi %1"]],
-    ["hi|hello|hola", ["hello there!", "hi there!"]],
+    ["hi|hello|hola", ["hello there!", "hi there!"]], 
     ["(.*) age?", ["I am a computer program, I don't have age"]],
     ["(.*) (location|city)", ["I am located in a virtual space"]],
     ["(.*) created?", ["I was created by a team of developers"]],
