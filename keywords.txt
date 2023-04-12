@@ -1,0 +1,5 @@
+hi|hello, I'm bot chat. How can I help you?
+movies|Today, you can watch the movie Doraemon.
+food|The best restaurants in town are XYZ and ABC.
+music|The latest album released is by Taylor Swift.
+technology|The newest gadget in the market is the iPhone 13.
